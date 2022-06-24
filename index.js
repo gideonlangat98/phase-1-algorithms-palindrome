@@ -18,6 +18,10 @@ console.log("abba");
 
 /*
   Add written explanation of your solution here
+  The problem is asking for a palindrome 
+  solution in that if a string is palindrome,
+  i.e can be reversed without changing it's meaning, 
+  returns true and vice-versa.
 */
 
 // You can run `node index.js` to view these console logs
